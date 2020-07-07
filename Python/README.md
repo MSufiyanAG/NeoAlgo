@@ -10,6 +10,7 @@
 # Codes in the Python language
 
 ## Data Structures
+* [Stacks](ds/Stacks.py)
 * [Tree (includes Traversals - in,pre,post-order)](ds/Tree_Traversals_In_Pre_Post_Order.py)
 
 ## Searching
@@ -32,6 +33,7 @@
 
 ## Graphs
 * [Depth of Tree](graphs/Depth_Of_Tree.py)
+* [Height of Tree](graphs/height_of_given_tree.py)
 * [Prim's Algorithm](graphs/Prim_Algorithm.py)
 * [Kruskal's Algorithm](graphs/Kruskal_Algorithm.py) 
 
@@ -62,4 +64,5 @@ _add list here_
 _add list here_
 
 ## Other
+* [Check Inversion](other/Check_Inversion.py)
 * [Kadane's Algorithm](other/Kadanes_Algorithm.py)
